@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BTN.qml</file>
+        <file>BTN_TEXT.qml</file>
+        <file>BTN_MOUSEAREA.qml</file>
+        <file>TEXT_INPUT.qml</file>
+        <file>RECT_TEXT_INPUT.qml</file>
+        <file>LABEL_TEXT.qml</file>
+    </qresource>
+</RCC>
